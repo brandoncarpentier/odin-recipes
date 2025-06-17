@@ -1,1 +1,1 @@
-# odin-recipes
+My goal is to make a recipe website to showcase my HTML talents that I have learned so far.
